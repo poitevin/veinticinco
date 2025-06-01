@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/veinticinco/static/js/main.2a9a0b8b.js",
+    "static/js/453.b9220924.chunk.js": "/veinticinco/static/js/453.b9220924.chunk.js",
+    "index.html": "/veinticinco/index.html",
+    "main.2a9a0b8b.js.map": "/veinticinco/static/js/main.2a9a0b8b.js.map",
+    "453.b9220924.chunk.js.map": "/veinticinco/static/js/453.b9220924.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2a9a0b8b.js"
+  ]
+}
